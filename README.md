@@ -1,9 +1,9 @@
 ### Hi there 👋, I'am Hibathulla
 #### Web Developer, Designer
 I have done many projects using frontend and backend frameworks.
-I love to learn more about the latest technologies. 
-As a developer, I always think through the user's perspective before implementing an idea. 😅
-Feel free to contribute to my repo.🤩
+I love to learn more about the latest technologies.<br />
+As a developer, I always think through the user's perspective before implementing an idea. 😅<br />
+Feel free to contribute to my repo.🤩<br />
 I have experience in React.js, Node.js, Figma, CSS, and diving deep into these technologies to learn more advanced features.
 
 Skills: REACT JS / NODE JS / JS / HTML / CSS / SASS
