@@ -5,7 +5,7 @@ As a developer, I always think through the user's perspective before implementin
 I am also very passionate about the user experience part of the design because I have an understanding of the UI/UX concepts. As a developer, I always think through the user's perspective before implementing an idea. I am also proficient in responsive design and cross-browser compatibility.<br />
 Feel free to contribute to my repo.🤩<br />
 
-Skills: REACT JS / NODE JS / JS / HTML / CSS / SASS
+Skills: JAVASCRIPT / TYPESCRIPT / REACT JS / NEXT JS / NODE JS / HTML / CSS / TAILWIND CSS / SASS
 
 - 🌱 I’m currently learning **latest frameworks** 
 - 💬 Ask me about **your ideas** 
